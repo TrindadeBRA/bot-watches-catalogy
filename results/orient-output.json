@@ -1,0 +1,2322 @@
+[
+  {
+    "model": "RA-AC0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/393c46447d8b7fa042962598b7ac65abb70ea839/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0001S_Test"
+  },
+  {
+    "model": "RA-AC0002S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/dc25a7d2497be4c09d99a5c199959148379f01d1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0002S_New"
+  },
+  {
+    "model": "RA-AC0003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ac0696f58fb3972b58af3236e1f9dc20dd4c9be3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0003S_New"
+  },
+  {
+    "model": "RA-AC0021L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d937fc1c9db2ffd8d1ff672410d344853ac72092/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0021L"
+  },
+  {
+    "model": "RA-AC0022S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/783f69d650aafa3f7d1f3ef2c80e8d10eef67fb7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0022S"
+  },
+  {
+    "model": "RA-AG0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/14b1a7947fd23a6b27a541bd1e8dcb4f1b442370/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0001S_Test"
+  },
+  {
+    "model": "RA-AG0003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/41e93ee6ece3da722c378964329e262a29617d20/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0003S_New"
+  },
+  {
+    "model": "RA-AG0004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7dc6aae01a128ca11814d65a19ce7b7d2314eac8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0004B_New"
+  },
+  {
+    "model": "RA-AG0005L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/561c625dce1f5301723a51211f55c5f8e2c616ff/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0005L_New"
+  },
+  {
+    "model": "RA-AK0701S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5bac6a11a7a19959c261eab0d713c2974ec428e7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0701S"
+  },
+  {
+    "model": "RA-AK0702Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5f53fd3e7f79c61c1e94358bd8a9412680f94ba1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0702Y"
+  },
+  {
+    "model": "RA-AK0704N",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d65bb5c1c8aadfe80629dc647fe62ea7ea232931/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0704N"
+  },
+  {
+    "model": "RA-AK0705R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2eb92f634fb27c184d4268061cc20e62c9c5cb38/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0705R"
+  },
+  {
+    "model": "RA-AP0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c6376eb0970ac56baa5b6c938129a9dc65c42330/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AP0001S_New"
+  },
+  {
+    "model": "RA-AP0002S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8cfe6dda17f3e78d36faf7abe104233ff1a916e2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AP0002S_New"
+  },
+  {
+    "model": "RA-AP0003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e70d2e06bc2487002ff3a2d29c2bc19aae6362a3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AP0003S_New"
+  },
+  {
+    "model": "RA-AP0004S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e1eb45a23c694766a3562b7f35f05261de5d4cfd/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AP0004S_New"
+  },
+  {
+    "model": "RA-AP0005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2546326fe25d7514eff4c682951cf1bbcf63d389/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AP0005B_New"
+  },
+  {
+    "model": "RA-AK0801S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ae55addd2f2a8cac7c64a9502d526d4ab562de19/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0801S"
+  },
+  {
+    "model": "RA-AK0802S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/79cac4b16e2b0d4bf734eff1bea2b9cddc204635/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0802S"
+  },
+  {
+    "model": "RA-AK0803Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bf71ac00d8ee91126e576854103d2f4983dee737/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0803Y"
+  },
+  {
+    "model": "RA-AK0804Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/33d4a734cb6b38f27d6d9364f741c26f640c2bda/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0804Y"
+  },
+  {
+    "model": "RA-AG0009S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8bcbd36b74dcf03e7b269a6f6a5d0a6ce233b177/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0009S_New"
+  },
+  {
+    "model": "RA-AG0010S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e63941db5c3bdc2bed687af45b1ce3cf19e39846/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0010S_New"
+  },
+  {
+    "model": "RA-AG0011L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c64b2866b5fd5b0d2af6284772b8cef7a7eaaa3c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0011L_New"
+  },
+  {
+    "model": "AC08001T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9f64424c8011ab334c8477f169725449124b7ae5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC08001T_690x460"
+  },
+  {
+    "model": "AC08002F",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e066247181cea5a61dbae4bbef6e96b3addcbde1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC08002F_690x460"
+  },
+  {
+    "model": "AC08003A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/18b8da2175d46396cb73261c63f2711ec626620d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC08003A_690x460"
+  },
+  {
+    "model": "AC08004D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ec2d24666dcf5e0d276baaca978c0f9d375d0744/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC08004D_690x460"
+  },
+  {
+    "model": "RA-AC0P02L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2253fc5e9b1924ff4170d0cc743e68860807e497/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0P02L_H492xW738pixel"
+  },
+  {
+    "model": "RA-AC0P03L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5a11e7a57376367763ddd318255a0855f4afd560/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0P03L_H492xW738pixel"
+  },
+  {
+    "model": "RA-AS0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/570d1c0e0a5197a11e5565f63fa8c86945fd7689/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AS0001S_New"
+  },
+  {
+    "model": "RA-AS0002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3a6259d3d38d69c78f7f9bfcfa057208d1ba46ef/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AS0002B_New"
+  },
+  {
+    "model": "RA-AS0003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c60fdd5ba576b86449eb7b4de4e058a8c2755e3c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AS0003S_New"
+  },
+  {
+    "model": "RA-AS0004S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/57f0a8e17fe5c1b0bb9e2908f4b271d388a266d3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AS0004S_New"
+  },
+  {
+    "model": "RA-AS0005S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/cf1193a0a5ca985827e075220e76e9708103af4a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AS0005S_New"
+  },
+  {
+    "model": "AK00001Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a1b7f7f9e7d7285c37b286f4008b372038532f82/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AK00001Y_690x460"
+  },
+  {
+    "model": "AK00002S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9e05aeacdea86ecf56c87a5adf01f36c6ea73246/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AK00002S_690x460"
+  },
+  {
+    "model": "AK00003T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0529550d60bde1daf9003c4eaa267028de2408e5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AK00003T_690x460"
+  },
+  {
+    "model": "AK00004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3020ced011555198f3a8f1e5e74d59c8416f4568/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AK00004B_690x460"
+  },
+  {
+    "model": "AK00005D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/78a11683a9cbac96859dc6689d60aaa1775a38ce/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AK00005D_690x460"
+  },
+  {
+    "model": "RA-AK0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/178e62cb3fda9915e63661ab26a82c7ea4352ec6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0001S_New"
+  },
+  {
+    "model": "RA-AK0002S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6163379d42b768f4e7acf25e29c9eb94ec66299a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0002S_New"
+  },
+  {
+    "model": "RA-AK0003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5d918b24c307b1b84e39b086cd1924c9a31257ca/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0003S_New"
+  },
+  {
+    "model": "AG00001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/415103d30f0e372dfd9523370a7b28c86761449d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG00001S_690x460"
+  },
+  {
+    "model": "AG00001T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bd724c16af7045b5ed14641151da5e1999bfdb6a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG00001T_690x460"
+  },
+  {
+    "model": "AG00002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8402f5097498a0f66ea627f4203f4cb8bad498f3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG00002W_690x460"
+  },
+  {
+    "model": "AG00003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7875725f20aa02eca59c4a1730f30724ab7a52d4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG00003B_690x460"
+  },
+  {
+    "model": "AG00003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/19a6df30ead31d3a084c81c54947152060497998/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG00003W_690x460"
+  },
+  {
+    "model": "AG00004D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ae3d8758e29e9901fd22f0d53b22f1eb28212cd6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG00004D_690x460"
+  },
+  {
+    "model": "RA-AG0012S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0c2aacaaa49d3f87ba7f959e8cb5e446a3117f5e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0012S_New"
+  },
+  {
+    "model": "RA-AG0013S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5e4d75aee2d5ad39bc4a933debbe54b36265c924/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0013S_New"
+  },
+  {
+    "model": "RA-AG0014S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/69c46256270de31b2183f4d0927ac6e2645df736/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0014S_New"
+  },
+  {
+    "model": "RA-AG0015L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fe2b80906145ae0245876719fb286bb1c377c472/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0015L_New"
+  },
+  {
+    "model": "RA-AG0016B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4f5bd929e9c298cdf78c920c31d7d9b0ae51ddbf/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0016B_New"
+  },
+  {
+    "model": "RA-AC0008S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7a28635633415060e8594f374f9b1d35958952c2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0008S"
+  },
+  {
+    "model": "RA-AC0009S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9319da91de0e691d73998c9c1185af7b13d03f4f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0009S"
+  },
+  {
+    "model": "AA05001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a80e277da09f2e34c8dbcae5520b99c1ed2eb001/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA05001W_690x460"
+  },
+  {
+    "model": "AA05002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7722956e79c91bc1fca053152c5b2d0f2bada71f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA05002W_690x460"
+  },
+  {
+    "model": "AA05003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e90475a4984e1c829e4f31022246c2e0f99aa861/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA05003B_690x460"
+  },
+  {
+    "model": "AA05003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/cbd13fd8bfbcb99c480415a0c61a6d5d06f5e1ea/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA05003W_690x460"
+  },
+  {
+    "model": "RA-AC0004S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/52b095214f543ab271e3eed53d0294000bd749c8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0004S"
+  },
+  {
+    "model": "RA-AC0005S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/346ab71abd4382ae3a5b75f92af50ee385aaf794/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0005S"
+  },
+  {
+    "model": "RA-AC0006B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b679f45fdc7116fdd692cdfd8f53f8fd37f99aed/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0006B"
+  },
+  {
+    "model": "RA-AC0018E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1440b2fde9ac7ec8b8811ab408e1fc201d10b56a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0018E"
+  },
+  {
+    "model": "RA-AC0019L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5856b6b7d9bf6d588d29e9d83bd79f3efbf7ad39/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0019L"
+  },
+  {
+    "model": "RA-AC0020G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/433756401013ea72643c75e774b67ec0d490ce5b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0020G"
+  },
+  {
+    "model": "RA-AG0026E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/41c305268154ff74052cb4045d26936434aaeb5d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0026E"
+  },
+  {
+    "model": "RA-AG0027Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3e50a6c25ec57356806138ff2ae79c0309cc750b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0027Y"
+  },
+  {
+    "model": "RA-AG0028L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0669a6a376a745c2723398f955468cf1240ef611/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0028L"
+  },
+  {
+    "model": "RA-AG0029N",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e8b62bc0b99318fc1be9f36907099917b70f27c9/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0029N"
+  },
+  {
+    "model": "AC04001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/21c52ec02ec6006448548cd1d80117df45706578/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC04001W_690x460"
+  },
+  {
+    "model": "AC04002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6646cb04a53b604413ffbaf1e46899cff3362ed8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC04002W_690x460"
+  },
+  {
+    "model": "AC04003A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/666da751bacb466a47c9e0aabe35f1996c0a947f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC04003A_690x460"
+  },
+  {
+    "model": "AC04003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/11d330b5841efbad52a6286ac54fea6d1d15891f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC04003W_690x460"
+  },
+  {
+    "model": "RA-AC0P01E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/594624ac2c9547a62d2ad742600bcc552b073833/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0P01E_H492xW738pixel"
+  },
+  {
+    "model": "RA-AC0P04Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/21215cc5e8f29666ed6ade2e659c42e4ffe39d7b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0P04Y_H492xW738pixel"
+  },
+  {
+    "model": "RA-NB0104S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2da01b3eb1cdc80f52feab26d998e00aeb38422a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NB0104S"
+  },
+  {
+    "model": "RA-NB0105S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d98cbec2015c9dd23a5ca71cfa23b258c2532e26/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NB0105S"
+  },
+  {
+    "model": "RA-NR2004S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6788c3beaa2a5665ea0a7783a6dbe56e143d1129/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2004S"
+  },
+  {
+    "model": "RA-NR2005S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/132e3ac69b436d94f9947e197f14793c1c4a3fc0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2005S"
+  },
+  {
+    "model": "RA-AR0004S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/39807032a3fdaee41389d27224eb14d02594fca5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0004S"
+  },
+  {
+    "model": "RA-AR0005Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8d862067e5b55e1bfc5f5c496e1edf19db27e15b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0005Y"
+  },
+  {
+    "model": "RA-BA0005S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/84ab9aaf251bf10dfd14956b847dcd09a8757eba/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-BA0005S"
+  },
+  {
+    "model": "RA-BA0006B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f1912fe11a656a90a1fb3d30fad4d6ed52319dce/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-BA0006B"
+  },
+  {
+    "model": "RA-NB0101B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/271cdeb2a4aa6aa3c8a428d5a9008ccb14ab5bce/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NB0101B"
+  },
+  {
+    "model": "RA-NB0102S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e34c55e73bfa2e1b491235b572518b3fde46c29f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NB0102S"
+  },
+  {
+    "model": "RA-NB0103S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2cb583caba94ac8492aa5758d94ea516b17973a9/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NB0103S"
+  },
+  {
+    "model": "RA-NR2001G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7e85b537c58d860850310cac6142ecd7ed8e2573/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2001G"
+  },
+  {
+    "model": "RA-NR2002P",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c6e823fd524a814ca41407ba977dce1b1dad026d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2002P"
+  },
+  {
+    "model": "RA-NR2003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3443053a22e8910eaae0673b8e1815dd73f6f49b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2003S"
+  },
+  {
+    "model": "RA-NR2006A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bb920f8129a360bec542a72c5aa8484473fbe703/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2006A"
+  },
+  {
+    "model": "RA-NR2007A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d039af6dd7851858428bbdd633335f2c5d5c4383/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2007A"
+  },
+  {
+    "model": "RA-NR2008B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/75e09b289d8c0406e7b3642b3ceb509844ddf98a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2008B"
+  },
+  {
+    "model": "RA-NR2009S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/db7a7fdacefdfb86f7eb07a3b604672d780dc46c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2009S"
+  },
+  {
+    "model": "RA-NR2010P",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/02f9c344f22c32c607d1e8c0b6e6f6f4cbf43c9b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-NR2010P"
+  },
+  {
+    "model": "RA-AR0002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fc3ae0cf0df1a3035442486ddc8c7035696a1840/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0002B"
+  },
+  {
+    "model": "RA-AR0003L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c6ebc3742f513526869c5d32c6fd686c51eeaeb4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0003L"
+  },
+  {
+    "model": "RA-BA0001G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8fb27f4d61431362bcdc6f7cf1a6e97a3d065e6f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-BA0001G"
+  },
+  {
+    "model": "RA-BA0002E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/245ad6aeabdfbe444283099f2d81c60f2df53573/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-BA0002E"
+  },
+  {
+    "model": "RA-BA0003L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7d0b9f71eb2c83fdb65554c5cc2e1342cb70353d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-BA0003L"
+  },
+  {
+    "model": "RA-BA0004S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/90a28325f7504faec8ef98bed574a762479e4735/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-BA0004S"
+  },
+  {
+    "model": "NR1Q003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e02dcc35572f5ecadd4ac63215f225ba07d08f1c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1Q003W_690x460"
+  },
+  {
+    "model": "NR1Q00BW",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e4f3a74eeea18f3fb7341959bf9c304ac6bc8538/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1Q00BW_690x460"
+  },
+  {
+    "model": "RA-AG0017Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/47d3f5e3f9970a27efea482038fa1097ace24864/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0017Y"
+  },
+  {
+    "model": "RA-AG0018L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5612bf7fcb45c4f4cffe5a2a4d1b260095bd06b2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0018L"
+  },
+  {
+    "model": "RA-AG0019B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ad8f2a0b34e28c2616233f6ad48e63874c7e028f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0019B"
+  },
+  {
+    "model": "RA-AG0024S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/16f31ce5f335adc09680d126b45a8b2a4ff0cba3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0024S"
+  },
+  {
+    "model": "RA-AG0025S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bc6e58247222933228e0692834812c63b42f440f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0025S"
+  },
+  {
+    "model": "EUAG001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/af7e488e464d4d2ab2dfcc35d9c176359649c82b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EUAG001W_690x460"
+  },
+  {
+    "model": "EUAG005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/499d270c37468894e77ab58750f534b1e936501d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EUAG005W_690x460"
+  },
+  {
+    "model": "RA-AK0004A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/14ac3c7de39cdba653690811974e30c9ea007466/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0004A"
+  },
+  {
+    "model": "RA-AK0005Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bf324fdc1356b7853981d97db9860d2b33c65435/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0005Y"
+  },
+  {
+    "model": "RA-AK0006L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/08425e10cc81db56022138aff760090185daae98/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0006L"
+  },
+  {
+    "model": "RA-AA0A05B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2258034df2a3ce87cdd09e7dcd4e6f7bbb3d6f98/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0A05B"
+  },
+  {
+    "model": "RA-AA0A06S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/090e184e3b9a434253ba05207568bb027e995dfb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0A06S"
+  },
+  {
+    "model": "RA-AC0E03S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0d2132ea848881e8c6276bc193fea59e3e9f0dbd/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0E03S"
+  },
+  {
+    "model": "RA-AC0E04L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/25895f65f2bca13bb309b8202d20df33f4bbe072/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0E04L"
+  },
+  {
+    "model": "RA-AC0016B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8ec12013479bb964c952087db48e700333416425/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0016B"
+  },
+  {
+    "model": "RA-AC0017S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/cbd3caf9c5b0287ab92556f52a6991ab908c088e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0017S"
+  },
+  {
+    "model": "RA-AX0006S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0d5ea041e32280ba1ee03f8161e4e370032806ea/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AX0006S"
+  },
+  {
+    "model": "RA-AX0007L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/238157b41b2b19564ccdd8e2c873a81b709c4029/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AX0007L"
+  },
+  {
+    "model": "RA-AX0008S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4743e3df5f2224b5be9604e02783d29537bedf13/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AX0008S"
+  },
+  {
+    "model": "RA-AR0103B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/955f042d81a3b9350c6b3ce0e7e24e86e3c37cab/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0103B"
+  },
+  {
+    "model": "AC05005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8d339466efa57e86c21197aaa9bf0cd19d903ee4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC05005B_New"
+  },
+  {
+    "model": "AC05006B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/35a532200010e52e0d3c41c6b7e08eb08b054f96/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC05006B_New"
+  },
+  {
+    "model": "AC05007D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7f138df3009bcb5e5a125d1a2e991de203e3f1a8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC05007D_New"
+  },
+  {
+    "model": "AG02001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3b79e614375723c72807762c5b5924e5cbbb5c25/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG02001B_690x460"
+  },
+  {
+    "model": "AG02002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fc9f969d2f3f9af9adc4d083ca8e0b6b7f4d661d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG02002W_690x460"
+  },
+  {
+    "model": "AG02003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7d78d6ffbb881f2300fda3a7dc0cb607d7d2fcd3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG02003W_690x460"
+  },
+  {
+    "model": "AG02004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/513363866aae2c7a22a345f14a1b9f9ce29982af/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG02004B_690x460"
+  },
+  {
+    "model": "AG02005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ff257726ed482a748da3b5c88b80eb18de65ca41/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG02005W_690x460"
+  },
+  {
+    "model": "EV0V002T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f4b6f9a598d5ac784024d557af7656e742f7c5e5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0V002T_690x460"
+  },
+  {
+    "model": "EV0V003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/81129571176d0c94870495641907cb72b552e16b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0V003B_690x460"
+  },
+  {
+    "model": "EV0V003D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/37808589f4d611f402edba7150325761be25e745/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0V003D_690x460"
+  },
+  {
+    "model": "EV0V004S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ef0cc2d1d31b4ee56ba30bb1b343d6db08ac6a36/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0V004S_690x460"
+  },
+  {
+    "model": "ET0P001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e4c868a54b3f8544e4a706c991ed2cb720a69278/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=ET0P001W_690x460"
+  },
+  {
+    "model": "ET0P003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/dc2b36f453bb2e678bf330389659466d4173e47b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=ET0P003B_690x460"
+  },
+  {
+    "model": "ET0P003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b615a6a0217baf823997464ae21e69ad4cf5752d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=ET0P003W_690x460"
+  },
+  {
+    "model": "ET0P004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6bb67a5f7cae606dfd11455bed0b04e3f5b7dc4b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=ET0P004W_690x460"
+  },
+  {
+    "model": "RA-AK0304B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/71be6853d27ed37f9a3af3927347a7b8bf1f86da/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0304B"
+  },
+  {
+    "model": "RA-AK0305S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2b5efe387675eb8379a41ba1a28c50935bad4781/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0305S"
+  },
+  {
+    "model": "RA-AC0F03B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c7d7a7f4307ffdd9ad26fa8c09819446bf960a56/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F03B"
+  },
+  {
+    "model": "RA-AC0F04S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/50c9bdefee92a7465e502ff7bf7f38d8b31104b3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F04S"
+  },
+  {
+    "model": "RA-AC0F05B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2e010a0866d5462dcd0c496b60ed878c7aa07c8e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F05B"
+  },
+  {
+    "model": "RA-AC0F06L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3360ede4c9d28ce93decd0c83fca8124429da99d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F06L"
+  },
+  {
+    "model": "RA-AC0F07S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3f0edbef2b43b576f61abf7d1209098af8f89414/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F07S"
+  },
+  {
+    "model": "RA-AC0F11L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f92d887e0d45521b06fb0b1d89c69732e81da031/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F11L"
+  },
+  {
+    "model": "RA-AC0F12S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6b9e20e4cfec910bb5b9d608f7dcfab836240999/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F12S"
+  },
+  {
+    "model": "RA-AA0C04B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3b9f8dfc35a2e2e7cb72ddbd794f0ce35107f702/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0C04B"
+  },
+  {
+    "model": "RA-AA0C05L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/24b143bfe811b9e80b6c413e7116fba5252ea697/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0C05L"
+  },
+  {
+    "model": "RA-AA0C06E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b0067d021a6f5314ac1abcf7a116c822e021cddb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0C06E"
+  },
+  {
+    "model": "EU0A001T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3aed14eaa7bbc187602fe5fbed04c069cb463590/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU0A001T_New"
+  },
+  {
+    "model": "EU0A004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c0794786d827c32c9f8232520b827988a7ebb269/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU0A004B_New"
+  },
+  {
+    "model": "EU0A005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f6ee058528baf7702c21e273a89de56cd0e973b6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU0A005W_New"
+  },
+  {
+    "model": "EV0U002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/18925d1754ddc6369854db01351816f5ef7dbd2e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0U002W_New"
+  },
+  {
+    "model": "EV0U003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/65355ca841c1555ab53b418f2eb65dfcad194151/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0U003B_New"
+  },
+  {
+    "model": "EV0U003D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4e6a3fa3b0ef5bca1ac626c76f81696e5a63af70/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0U003D_New"
+  },
+  {
+    "model": "EV0U003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5496df0dba15e5519ed06773e95e0ac23f9ca38d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0U003W_New"
+  },
+  {
+    "model": "RA-AC0J05L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/54f6d50d6167432900d37107a74ec49c028d08bc/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J05L"
+  },
+  {
+    "model": "RA-AC0J06S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4491e074fd38fc4652dceb1072b60ad0571f82c3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J06S"
+  },
+  {
+    "model": "AL00004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4809a1fc76bdd41743c038c8971ec93c4587c1c8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AL00004B_New"
+  },
+  {
+    "model": "AL00004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ef514b5fe1a9a512d7995d93be7b17987ac643d8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AL00004W_New"
+  },
+  {
+    "model": "AL00005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/46949fc66fd53ff05aeb81c8ef03654c2a5ee480/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AL00005B_New"
+  },
+  {
+    "model": "AL00006W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/85fa26228c49869abbf5592640730cd40608d0e7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AL00006W_New"
+  },
+  {
+    "model": "NR1U001Z",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c51fc957b08107ce1b917fd5f9d6d4885084c613/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1U001Z_690x460"
+  },
+  {
+    "model": "NR1U002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fa49bcc47961c8316e27565ea7a965b21cf4d040/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1U002W_690x460"
+  },
+  {
+    "model": "NR1U002Z",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/06b8ed0495d032c20891caf01d8ddfd9fba49067/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1U002Z_690x460"
+  },
+  {
+    "model": "NR1N001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f3e4c7dbc3cde32bcd77cbc345c9df3d875f01bd/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1N001W_690x460"
+  },
+  {
+    "model": "NR1N002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6d6cba6646d38dd3af45fd58dfdf9bc4a3fcf601/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1N002B_690x460"
+  },
+  {
+    "model": "NR1N002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/54305d5b8e9b94d721aa63c4ebde120c2cad6b4d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1N002W_690x460"
+  },
+  {
+    "model": "NR1L001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bd368300f96544790aaa1f846412782c7f53de63/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1L001B_690x460"
+  },
+  {
+    "model": "NR1L001C",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d82ec3d4db32f59e8e71a85d150e8ed42b2505cf/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1L001C_690x460"
+  },
+  {
+    "model": "NR1L001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/40b3c426846e471184dadfd17ee78c51a15b4eaa/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1L001W_690x460"
+  },
+  {
+    "model": "NR1L002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/723a1e71a08ec2990b131bf0e189f85adbe8dac0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1L002W_690x460"
+  },
+  {
+    "model": "NR1Q001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/653d199521e2b012934b8b8802ba6d76ea217add/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1Q001W_690x460"
+  },
+  {
+    "model": "NR1Q002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/14b798ec680e34e047129b3398a4ae7e91fb078d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1Q002W_690x460"
+  },
+  {
+    "model": "NR1Q004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/776cca32fce3270b2599d589fe41dc320da8818f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1Q004W_690x460"
+  },
+  {
+    "model": "NR1Q005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/62d07a0617893a85765304b032c85a605c50e806/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1Q005W_690x460"
+  },
+  {
+    "model": "NR1Q00AW",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0b956a52c62a498e2c24e49d0a9d5b95cb8a11bf/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=NR1Q00AW_690x460"
+  },
+  {
+    "model": "RA-AG0020S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9a145dcb6c1bac1224d6d2a998c46a585735c928/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0020S"
+  },
+  {
+    "model": "RA-AG0021B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/660e59c02aab20670bbe11265d4d9a7f510944b4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AG0021B"
+  },
+  {
+    "model": "AG03001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/47d081aa70395601d0ada40b7dff16c950e68b3a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG03001B_690x460"
+  },
+  {
+    "model": "AG03001D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e0fb20af2789e0091158261d0edc66167c0b2121/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG03001D_690x460"
+  },
+  {
+    "model": "AG03001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4116a6e56ef6ffd96e3f5d72aaadb82a0277414e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG03001W_690x460"
+  },
+  {
+    "model": "AG03002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5d11782ec60219cca7c80d9700240e5fe87b27ad/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AG03002B_690x460"
+  },
+  {
+    "model": "RA-AA0A01S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/adbf41a315548e6ef140a366f4cb3b6b83231d07/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0A01S"
+  },
+  {
+    "model": "RA-AA0A02B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7956b2b65eb42bb71720a311b2adf224cd323126/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0A02B"
+  },
+  {
+    "model": "RA-AA0A03L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/303da6ea6b3358009f259dc57fc3f343595105b8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0A03L"
+  },
+  {
+    "model": "RA-AA0A04S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d81231725cd324edd7fa97a08b0203e12740e3f2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0A04S"
+  },
+  {
+    "model": "RA-AC0E01B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c22cbb7f95e5e7df78c4d0be21c485b780b1906b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0E01B"
+  },
+  {
+    "model": "RA-AC0E02S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/575018b580a6d10fc0eed0c8e8bba871569a3377/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0E02S_New"
+  },
+  {
+    "model": "RA-AC0E05N",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c6224d4abdabbce45ebfe89fb26d9369ef77fb6c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0E05N"
+  },
+  {
+    "model": "RA-AC0E06E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f8878dee11bf8359766909593ab284bf72e17175/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0E06E"
+  },
+  {
+    "model": "RA-AC0E07S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/abe177b5bf006defd05e60f89dd11eb9e510cb39/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0E07S"
+  },
+  {
+    "model": "RA-AC0012S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/452fcc72199e9f8bb916d56c320881882128d52c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0012S_New"
+  },
+  {
+    "model": "RA-AC0013S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/17d5a0df053bffcee74c2a8b04f34de16cf0dd0a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0013S_New"
+  },
+  {
+    "model": "RA-AC0014B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bacd146973259f2370f4c7ebc353e1b7c9c56715/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0014B_New"
+  },
+  {
+    "model": "RA-AR0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/840cfc8c02b55b2cdaa340c4826ee176a6a04b81/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0001S_New"
+  },
+  {
+    "model": "RA-AX0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4641f35715028aeba4791f839a9eeea2e27529b6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AX0001S"
+  },
+  {
+    "model": "RA-AX0002S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2957a085a55f4e69a88f5884fa911297816c81bb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AX0002S"
+  },
+  {
+    "model": "RA-AX0003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/23df78db6d625fba6178eee824311bcee20f79a3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AX0003B"
+  },
+  {
+    "model": "RA-AX0004L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b2ed4f93857049f6e0e0fdd5f4f80b406081064d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AX0004L"
+  },
+  {
+    "model": "RA-AX0005S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9d306c934cc7c0e7592c40d5902de14c16915f9a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AX0005S"
+  },
+  {
+    "model": "RA-AR0101L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/301610ea7b27fba9a747aec4c5c57ddd2449e243/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0101L_New"
+  },
+  {
+    "model": "RA-AR0102S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/168ceb0e002ffc84aef8d3bcc6e9a38f3be589ef/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0102S_New"
+  },
+  {
+    "model": "AC05001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e58973e3601696e53a026b692dee8ab0ef95894a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC05001B_New"
+  },
+  {
+    "model": "AC05002D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c9b9eb80f74fd26010b4069af5335b15aaf61919/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC05002D_New"
+  },
+  {
+    "model": "EV0P001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9729c9ed27ee2821459cd9dd7ecf3acab5585d2c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0P001W_New"
+  },
+  {
+    "model": "EV0P002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/49e8b115a06d92646c74e611681eef4f60a3d288/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0P002B_New"
+  },
+  {
+    "model": "EV0P002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/772119b7120483ae0676ac3f4e403b23ea0595bb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0P002W_New"
+  },
+  {
+    "model": "EV0V001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f284f56a42c1f8c4d38190bf813947fdc4798a2c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0V001B_New"
+  },
+  {
+    "model": "EV0V001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/56a51832a69289c25fbbaecbfd06dfa2b1bc9e63/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EV0V001W_New"
+  },
+  {
+    "model": "ET0P002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/100db966b88bb167554b12c6912f389f10e71809/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=ET0P002B_New"
+  },
+  {
+    "model": "ET0P002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7961f2329b3fa3a336d7e637a466736870f05a98/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=ET0P002W_New"
+  },
+  {
+    "model": "RA-AK0301S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fc499d2c878bf32c033bfa7824fba733d398cc52/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0301S"
+  },
+  {
+    "model": "RA-AK0302B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/108e471782e05a8e975ed8b915751f13b52f9a20/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0302B"
+  },
+  {
+    "model": "RA-AK0303L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8a54d47e839cc76e77c6051877225de86844f65c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0303L"
+  },
+  {
+    "model": "RA-AC0F01B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8d446f98dc7fda5eab7af6297f3e340a8497b065/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F01B"
+  },
+  {
+    "model": "RA-AC0F02S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0100bb7873dd079379187474d7d96525b327586f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F02S"
+  },
+  {
+    "model": "RA-AC0F08G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/83c23090bb0575d7b7fcebdf70b675980b25d506/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F08G"
+  },
+  {
+    "model": "RA-AC0F09L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0cf0c5093db2329807a6fb7d5f85ae3c43aa58f7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F09L"
+  },
+  {
+    "model": "RA-AC0F10S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/082c10d297e8bde9a10fedcb0af1f8626c019ee4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0F10S"
+  },
+  {
+    "model": "RA-AA0C01B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6d5134d5e1040b7e8261f228b82f35cc4fd5cad6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0C01B"
+  },
+  {
+    "model": "RA-AA0C02L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/669e960b746cb4466cdfa5511dffc3d6cef12875/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0C02L"
+  },
+  {
+    "model": "RA-AA0C03S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/178855f6612f6069748c59c1fd2c48713b73eece/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0C03S"
+  },
+  {
+    "model": "EU0A003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/61f91e805045b6882e14eee4d50e7b8364c0a1cb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU0A003B_New"
+  },
+  {
+    "model": "EU0A003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c193cca1cac22da360377d9a945d657bf0269e80/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU0A003W_New"
+  },
+  {
+    "model": "RA-AC0J01S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6a009cc4f89a4120013eb4fc67265f4fd7305af1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J01S"
+  },
+  {
+    "model": "RA-AC0J02B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d1e213399d6949e0f9f3748a34b8159432e40f62/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J02B"
+  },
+  {
+    "model": "RA-AC0J03L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3684487845b25a749ece5c8b48cc98e93054d94f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J03L"
+  },
+  {
+    "model": "RA-AC0J04S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/eada164f97feb4245489473c16df2c1b88764f55/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J04S"
+  },
+  {
+    "model": "RA-AC0J07S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1f2018fe7b21346ca3537d00143b386d5dd69478/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J07S"
+  },
+  {
+    "model": "RA-AC0J08B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/034216f9f32120b491984f7e747952c4ef8d9460/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J08B"
+  },
+  {
+    "model": "RA-AC0J09L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/693e1663e7d93c8987651da407ef483398283fd0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J09L"
+  },
+  {
+    "model": "RA-AC0J10S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7f605b234511ef4af370848acecf60772a4a5487/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0J10S"
+  },
+  {
+    "model": "AL00001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0633073775ce9cb77ebf2bd71a3cb10e217cbd80/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AL00001W_New"
+  },
+  {
+    "model": "AL00002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/58e7fcfe0d5c9a2dcb1d296cb65392a1098f67e9/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AL00002B_New"
+  },
+  {
+    "model": "AL00003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/522b53fc3a802834049b69987a1145cf4af0c336/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AL00003W_New"
+  },
+  {
+    "model": "EU00000B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d053aad6eb8c50a21a11af4e2cdb3b9c42422b0f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00000B_New"
+  },
+  {
+    "model": "EU00000C",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ae23886abd40691d735c9c165ff5e1777d89a453/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00000C_New"
+  },
+  {
+    "model": "EU00000D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/cfd4245cc20e0da4fc5b9e17f3753cc6c5be9ee0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00000D_New"
+  },
+  {
+    "model": "EU00000W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7b0b60a6cd188abd8a8312c1f2e1edfce039741d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00000W_New"
+  },
+  {
+    "model": "EU00002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/dd999ad8ae8e12c05338d26dbe275a52efcf6797/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002B_New"
+  },
+  {
+    "model": "EU00002C",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4353c617976e12d524a6834549fe7eed88851b74/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002C_New"
+  },
+  {
+    "model": "EU00002D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/be712674380c5b29466276efbe02ceed56088fce/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002D_New"
+  },
+  {
+    "model": "EU00002F",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e422dfb011c0bc95fc1035a73d100d2ba39d57bd/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002F_New"
+  },
+  {
+    "model": "EU00002K",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9d3a30b39eabd9805634e91fb69195290bf97b88/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002K_New"
+  },
+  {
+    "model": "EU00002P",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ae05af0632d8bb7354f781fbae00fce70817c7b1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002P_New"
+  },
+  {
+    "model": "EU00002T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/deec3a8506897f955460a7121ae55dbff3e5bfa4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002T_New"
+  },
+  {
+    "model": "EU00002U",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/dfe071144f469a157194ee184e74381bfcbaa6f5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002U_New"
+  },
+  {
+    "model": "EU00002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/05d45ec464fc867874740b2feb647f16ef9c0fff/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00002W_New"
+  },
+  {
+    "model": "EU00008B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9820206a29b4782546543f52d42385f75e72e68a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00008B_New"
+  },
+  {
+    "model": "EU00008C",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d395bafe8b55de05d23a713dcbf825802fdc0789/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU00008C_New"
+  },
+  {
+    "model": "RA-AR0202E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/22e6e2937dc3800103228ad67d7da61ea6d9a6ab/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0202E"
+  },
+  {
+    "model": "RA-AR0203Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/aa5d9c8dbc67aa5f168dbbf037b77f0802afc89e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0203Y"
+  },
+  {
+    "model": "RA-AR0204G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/169fa6e986d1658d9e98529c69796849cf496ead/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0204G"
+  },
+  {
+    "model": "RA-AA0D04G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2cecc00474e142ebb1516835db0fadca8d16aa39/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0D04G"
+  },
+  {
+    "model": "RA-AR0201B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9566c595f5993ccfb4ba876a9bf5ad761f79e830/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0201B"
+  },
+  {
+    "model": "RA-AA0E01S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/81fe8f13fc7056ed0a53b0f8b74c787d376a642c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0E01S"
+  },
+  {
+    "model": "RA-AA0E02E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1de749bf8be1c209a7509753ed05e005552eb0e6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0E02E"
+  },
+  {
+    "model": "RA-AA0E03L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b812ba11b9918765d913c2621bbe4beb6bbfd14a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0E03L"
+  },
+  {
+    "model": "RA-AA0E04Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3e13d4c62f1dc582afadc4f4ce97f7faba1d68c6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0E04Y"
+  },
+  {
+    "model": "RA-AA0D01B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/376e4547fa76b584ad01841add73341c367a6d60/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0D01B"
+  },
+  {
+    "model": "RA-AA0D02R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2b4fefb5160081dffe5ecbeb602ccb475a2cd721/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0D02R"
+  },
+  {
+    "model": "RA-AA0D03E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d4917b104cb2df6cbac16cd85031b7e3ceb01afd/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0D03E"
+  },
+  {
+    "model": "RA-AA0B02R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2d51063d5545766a5337800140e086bc2308cd89/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0B02R"
+  },
+  {
+    "model": "RA-AA0B03L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b801a7dd6323fa65c43fed74292f9ccbf5e3cbc0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0B03L"
+  },
+  {
+    "model": "RA-AR0303G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3934126c53d2aaf780f9773f1cd1070e080d3ea0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AR0303G"
+  },
+  {
+    "model": "RA-AC0Q05P",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f9c86d7db101097924a7778f881c4b089e033442/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0Q05P%2B"
+  },
+  {
+    "model": "RA-AC0Q07V",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/83c8c0aa7c930a9edb014e295d6edce888a9b175/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0Q07V%2B"
+  },
+  {
+    "model": "RA-AC0K05G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f7b24598f7bacbc798163d0b935db33a9aede468/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0K05G"
+  },
+  {
+    "model": "RA-AA0E06B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a9717caeca496d89ba9aea43fec16c6750469e91/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0E06B"
+  },
+  {
+    "model": "RA-AA0E07B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a9965b050b2f833db6bc2b55aada081791b685c6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0E07B"
+  },
+  {
+    "model": "RA-AC0Q01B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7c667d60715e05c00bea9069ae39d0f04de5f0c1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0Q01B%2B"
+  },
+  {
+    "model": "RA-AC0Q02L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0b6dfe3577d399cbf0973c55cb37e95ef54a9d54/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0Q02L%2B"
+  },
+  {
+    "model": "RA-AC0Q03S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/15fbd84d217b23210708b9b9346aa347a336066e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0Q03S%2B"
+  },
+  {
+    "model": "RA-AC0K01B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9314a4d8e7d3e15b4ddb1a1160a94fe17500577b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0K01B"
+  },
+  {
+    "model": "RA-AC0K02E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c201ac3d4347ca486a84a28c39145e6f74640624/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0K02E"
+  },
+  {
+    "model": "RA-AC0K03L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/03fb433af2c0a57b74b6c125fef1b37e8870c2a7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0K03L"
+  },
+  {
+    "model": "RA-AC0K04E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1e80f4905d264c3348b808f367a1a3117041c907/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0K04E"
+  },
+  {
+    "model": "RA-AA0E05B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2ebd7aae1a8424d96ee8912583ee058dba22952d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0E05B"
+  },
+  {
+    "model": "RA-AA0912B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/142a9ef0f7f4d22db97b37c6ba57dbdafc6a89c5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0912B"
+  },
+  {
+    "model": "RA-AA0913L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2181f85bac42a5188a897c28b2119f1953bb9fee/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0913L"
+  },
+  {
+    "model": "RA-AA0914E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/90ac901a1a0d56c0a2bd5925dbcbc5a932f394c1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0914E"
+  },
+  {
+    "model": "RA-AA0915R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fae9cd7218230dfef81ecca5bf455c27ff7775af/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0915R"
+  },
+  {
+    "model": "RA-AA0917B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/56cac7e893eecf1397d1302dbc612be29e8fe26f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0917B"
+  },
+  {
+    "model": "RA-AA0918S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/95f9def5e3ff74098b4a8d7628181d1e6325255f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0918S"
+  },
+  {
+    "model": "RA-AC0L01B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b9daf8cf03613f1ca0972c7f37d5945642c8ebe6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L01B"
+  },
+  {
+    "model": "RA-AC0L02R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0c634449086b622023f8c332503dfa0256619ede/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L02R"
+  },
+  {
+    "model": "RA-AC0L06B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a433b739a6e68a483899d34a34578fe76392f0fe/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L06B"
+  },
+  {
+    "model": "RA-AC0L07L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e0e14b11c4005bf74e94025b8ba3a7b9264ad8d2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L07L"
+  },
+  {
+    "model": "RA-AC0L08Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bc89b108bc4796016a7a83bc6a4cb66915d4391f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L08Y"
+  },
+  {
+    "model": "RA-AC0N02Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bdbd10ebeccc6365e99f90965f65d1e040d9e74f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0N02Y"
+  },
+  {
+    "model": "RA-AC0N01B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8a6fa9beccabe1758a7b9fec2eecf49a1b2692d7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0N01B"
+  },
+  {
+    "model": "RA-AC0N03E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f618d164c1ebdd596454c760030c89f665d5a90e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0N03E"
+  },
+  {
+    "model": "RA-AA0916L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/efa8c9b8327356b04561468d6d6a0bf7fb5c0354/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0916L"
+  },
+  {
+    "model": "RA-AC0L03B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f5529b8625d0cce88a80c22beb79fb91866a1ee0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L03B"
+  },
+  {
+    "model": "RA-AC0L04L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/924bc763cbd07dafe6f80adbb37baf2934b66a47/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L04L"
+  },
+  {
+    "model": "RA-AC0L05G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3f65cbf68cd22025341785df067c6614cd55070c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L05G"
+  },
+  {
+    "model": "RA-AC0L09R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6ff7cd265c5910651bd1c388579b71619d99c43e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0L09R"
+  },
+  {
+    "model": "RA-AA0813R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a185192ea5b851241c952e8380ba22f70b2fb843/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0813R"
+  },
+  {
+    "model": "RA-AC0H03B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8cafdba85773896da5490109d7dd397842da2771/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0H03B"
+  },
+  {
+    "model": "RA-AC0H04Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/38ffaa102322c8523d9dc986ff28ebe91ca4f7ac/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0H04Y"
+  },
+  {
+    "model": "RA-AK0405Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3796d5e0287cfbe43df3e8678a00064534b0bc42/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0405Y"
+  },
+  {
+    "model": "AC09001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2f06c94933bf57b3418d21c7f0795d9b7c03b873/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC09001B_690x460"
+  },
+  {
+    "model": "AC09002T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bcdfca9ed301de37bc3bc484213914795e34ed90/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC09002T_690x460"
+  },
+  {
+    "model": "AA02001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5a365aec9acb6b134e10167452f99d8b4fed2ef6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02001B_690x460"
+  },
+  {
+    "model": "AA02002D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b9555bf8085f94de7b08f5383a1e125c41100079/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02002D_690x460"
+  },
+  {
+    "model": "AA02003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ee43fd3cc65bf031d0fcf1f57b2f5a239d4f2745/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02003B"
+  },
+  {
+    "model": "AA02004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ba468e63f08d53b020cd60224a729aad5403cf16/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02004B_690x460"
+  },
+  {
+    "model": "AA02005D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/df4d059e971862ea9ca58cda6c5b7658c9d62fc6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02005D_690x460"
+  },
+  {
+    "model": "AA02006M",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2f161e3939084a99b2d003fae4401b0c8fa6476c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02006M_690x460"
+  },
+  {
+    "model": "AA02009D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/37be0bdc091ea350cf97b4965fb182f4a2c331cd/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02009D_690x460"
+  },
+  {
+    "model": "RA-AA0001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a3c3e5facaced4f4b9cac2743feef2731699c930/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0001B"
+  },
+  {
+    "model": "RA-AA0002L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/84be5d3ad3689fd77a81d7a09e05794271415ba7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0002L"
+  },
+  {
+    "model": "RA-AA0003R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c2eeaa3dc7ef7bec9de6acd6ab785b47e2c25299/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0003R"
+  },
+  {
+    "model": "RA-AA0004E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/42397d3d1b92f327c96e95e4ae8952e0934df843/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0004E"
+  },
+  {
+    "model": "RA-AA0810N",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/13a081414e5862a3aa7e7fa61d19094f2722eaa5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0810N"
+  },
+  {
+    "model": "RA-AA0811E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e04f3983eefa43f1b1dd50b0cc033f2c9968ee49/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0811E"
+  },
+  {
+    "model": "RA-AA0812L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/77d1ac5d1e3207f94bdc3586f95de7ca5590d20a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0812L"
+  },
+  {
+    "model": "RA-AA0814R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ae1c0ee4ee0503d2058be278cbeb68025d117126/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0814R"
+  },
+  {
+    "model": "RA-AA0815L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/528db76327e580952a63ab93fcec7e145e85f8ec/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0815L"
+  },
+  {
+    "model": "RA-AA0820R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/73fb4ba50f0b6992395aae0def2973701eff4e7a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0820R"
+  },
+  {
+    "model": "RA-AA0821S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/369e3b29a3f3c199e2ff0580df70d70af03c75d0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0821S"
+  },
+  {
+    "model": "RA-AC0H01L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/41559b6b731a59da1110d47f76fe823b42ff95f5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0H01L"
+  },
+  {
+    "model": "RA-AK0401L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/be5008b73033ef99d7e7bdb4a75ed60b09c26c5f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0401L"
+  },
+  {
+    "model": "RA-AK0402E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c07e4dc29b02f2e1d32ae3b66488cc373132ff0e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0402E"
+  },
+  {
+    "model": "RA-AK0601L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6a0165acb35a54dde734a4d7d5ccd5ca6357927f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0601L"
+  },
+  {
+    "model": "RA-AK0602B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4b6e8737dd95a206a9ff00d59527bbfdfe8ff1a0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0602B"
+  },
+  {
+    "model": "RA-AK0603S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4cc5fcba309c30db6410e2cee0012ce5ca6974f8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0603S"
+  },
+  {
+    "model": "RA-EL0001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e83ed4522ceb28da6f93891d37fab01948ce0730/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-EL0001B_690x460"
+  },
+  {
+    "model": "RA-EL0002L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/28cb87cb0d3e7ec83d6352d24878c3d2e41faf8e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-EL0002L_690x460"
+  },
+  {
+    "model": "RA-EL0003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b344b1e16ced2210b03a3f9d81f9b005301142f4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-EL0003B_690x460"
+  },
+  {
+    "model": "EU07001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6026971937c2de38df5e7f1610c2682bda815241/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU07001B_690x460"
+  },
+  {
+    "model": "EU07003T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/017cda658f8d40ba714a4e0b9636b8678d93e3eb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU07003T_690x460"
+  },
+  {
+    "model": "EU07004U",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/77579cf95ccfb2a821775feca201b114f1ef1ab6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU07004U_690x460"
+  },
+  {
+    "model": "EU07005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/df8241fd5159eebfed1d8560d8160e9374842c6d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU07005B_690x460"
+  },
+  {
+    "model": "EU07005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a34c3d9693de3528b6274ab1556b25065ca95cd8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU07005W_690x460"
+  },
+  {
+    "model": "EU07007F",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9ab2742a4ec7a869cfa3fa76727974284a82f826/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU07007F_690x460"
+  },
+  {
+    "model": "EU07008D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0129f49274b2c099a094d55a4b299e710d900609/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EU07008D_690x460"
+  },
+  {
+    "model": "RA-AA0008B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5be94b5e3ed60f86091bb25b8fbe0f8d4b4447bc/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0008B"
+  },
+  {
+    "model": "RA-AA0009L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e0c90fb231594a2ac83a088695310abd13fb7488/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0009L"
+  },
+  {
+    "model": "EM75001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ff73a922cbd41f0cbcec05ba19c6c25f819165a6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EM75001B_690x460"
+  },
+  {
+    "model": "EM75002D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4284769d5149b4875743ba966ff106ed277697c4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EM75002D_690x460"
+  },
+  {
+    "model": "EM75003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9b86b746d7455e043c7e40e65757f762df5e261b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EM75003B_690x460"
+  },
+  {
+    "model": "EM75004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3630846c42943825afefa083d1a926c65728fe1d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EM75004B_690x460"
+  },
+  {
+    "model": "EM75005R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2c044001cfd54de06f51ecd6197e9d59fa4b90f1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=EM75005R_690x460"
+  },
+  {
+    "model": "RA-AC0H02N",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1f4de021b4bf46fc723a6aa3dcd37062f188267f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AC0H02N"
+  },
+  {
+    "model": "RA-AK0403N",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/dbb093b70f3d6a49ac3b84b89b16270f7bcc1f8e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0403N"
+  },
+  {
+    "model": "RA-AK0404B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f90ddb7622f28094cf2e145b531e7060e63fb036/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0404B"
+  },
+  {
+    "model": "AA02007B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/cd9c1fb9dd8be0cb5277317a61ba8bcbf67a5a0e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02007B_690x460"
+  },
+  {
+    "model": "AA02008D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c0eefb714c372094dbc0ab6d542fd94f78972b04/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AA02008D_690x460"
+  },
+  {
+    "model": "AC09003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0dda0087acb7c82a035d4b054ee27c41a146b076/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC09003B_690x460"
+  },
+  {
+    "model": "AC09004D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/232f6ecd61de01de914f0ed144dcbfa4011cae08/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=AC09004D_690x460"
+  },
+  {
+    "model": "RA-AA0005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9e99fc167329dea4089909ec8eadf987f1a7d0d3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0005B"
+  },
+  {
+    "model": "RA-AA0006L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ef6b1a193e994fc188cd008f08943c75da4b68b8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0006L"
+  },
+  {
+    "model": "RA-AK0604B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/593af651b30a27ff3120364003ae1693618f13ed/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0604B"
+  },
+  {
+    "model": "RA-AK0605B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7c203802b0e999e438f3ef9220ae8836cab10be2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AK0605B"
+  },
+  {
+    "model": "RA-AA0010B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e67886941daa6c31e9757e303173b2fe10bec0fa/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0010B"
+  },
+  {
+    "model": "RA-AA0011B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d82e94eb2a75a7c124373bb0d5438dda9fa01002/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-AA0011B"
+  },
+  {
+    "model": "RA-KB0002A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a21f8299dad6eca6280d7a173a752d6f02771b42/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KB0002A"
+  },
+  {
+    "model": "RA-KB0003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f47a55e115d3ac90d11f9c1643411c502162a960/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KB0003S"
+  },
+  {
+    "model": "RA-KB0004A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6497421cbf6393996eaecf07eb68d68a8d670d7b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KB0004A"
+  },
+  {
+    "model": "RA-KB0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/98e610a167f4d40e639e8c47eafd6bbd8b111820/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KB0001S"
+  },
+  {
+    "model": "RA-KB0005E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/eb104b5bee6f53844e8f682855bc9adfbcc201c7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KB0005E"
+  },
+  {
+    "model": "RA-QC1703B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/78ca2d75e291ef42879c3fd2a5e36120f6d3431b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-QC1703B"
+  },
+  {
+    "model": "RA-QC1704S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/db178e737fbd3cc14f5808aa96ce4a89a162befc/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-QC1704S"
+  },
+  {
+    "model": "RA-QC1705S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ee8ccf29a181f916819d6b9bfb5dd3deb7965732/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-QC1705S"
+  },
+  {
+    "model": "RA-KA0001A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3bea445a58e3592f70af6801e56edb275dc089a0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KA0001A_New"
+  },
+  {
+    "model": "RA-KA0002Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fe565faff6b8f21cb74ba060e7befe2f88f8b5ab/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KA0002Y_New"
+  },
+  {
+    "model": "RA-KA0003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6b4a86306b904e302b028ec78cfbabd69298546e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KA0003S_New"
+  },
+  {
+    "model": "RA-KA0004L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bf0812bc4c9ba980ed79c43294051923986abbd3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KA0004L_New"
+  },
+  {
+    "model": "RA-KA0005A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9a424d9d7c957aa7ffd2040af9905b4ac5caab3d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KA0005A_New"
+  },
+  {
+    "model": "RA-KA0006S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/53533ab075f036294118ab8fd7b92947ecf82b4f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KA0006S_New"
+  },
+  {
+    "model": "GW01008W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4cf30c4d6cfd94e9695b83cb98240e8ffd1a76a1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01008W_690x460"
+  },
+  {
+    "model": "GW01009B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c25fbfe9cb97fb7d0dd907fbbf6f4e155927a3b2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01009B_690x460"
+  },
+  {
+    "model": "GW0100AW",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2ad906ff40f64002d8af32ebf29ba73521f6ccaa/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100AW_690x460"
+  },
+  {
+    "model": "GW0100BB",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3e9a281bf0209a495ff5ef6b98cc739bfb1c96d1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100BB_690x460"
+  },
+  {
+    "model": "GW0100CW",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2672a20a16c1ba44f2c6440bec8ca6c14926b3e1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100CW_690x460"
+  },
+  {
+    "model": "GW0100DB",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/cb72938b4275c6b163411ba0969f38cb1298b7a5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100DB_690x460"
+  },
+  {
+    "model": "GW0100EW",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1e6f323750eac6af590fe5c907958678187175db/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100EW_690x460"
+  },
+  {
+    "model": "GW0100FW",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/30ba603a4e16f3db4747732e0f557579ed917ead/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100FW_690x460"
+  },
+  {
+    "model": "GW0100GB",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/32fe7e079785153518e4ad779231832754f12d11/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100GB_690x460"
+  },
+  {
+    "model": "GW0100HW",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/04a079984ac9b07aef85c3a90d08067ad7769966/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100HW_690x460"
+  },
+  {
+    "model": "GW0100JW",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/66fbd2a3747e3c66cd65f6718133cb528439da43/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW0100JW_690x460"
+  },
+  {
+    "model": "UG1R001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b8628c5cf9c42e2b2c55ff5ea305347d02080aa2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1R001W_690x460"
+  },
+  {
+    "model": "UG1R002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5be1054a12a7e26779db31c764d9a7fc4d43d5c1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1R002B_690x460"
+  },
+  {
+    "model": "UG1R003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/233c08a150dcb7cb781ea8fe497dda9d8296d895/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1R003W_690x460"
+  },
+  {
+    "model": "UG1R005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5c471c7ede33732e018450da31381b68ab32eadb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1R005W_690x460"
+  },
+  {
+    "model": "UG1R006W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2eca6f245ab6c09b6b19ed79694230d840268d22/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1R006W_690x460"
+  },
+  {
+    "model": "UG1R007W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/555cc07ca5bf980e19cd7cf0bb1fd46b25bc42b5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1R007W_690x460"
+  },
+  {
+    "model": "UG1R008B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b556ef24d1725e02c08d752fe4e331b32c062f3f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1R008B_690x460"
+  },
+  {
+    "model": "UG1R009W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5c9ef794b154debc7ac13691edb718cd144f2e00/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1R009W_690x460"
+  },
+  {
+    "model": "RA-KV0403S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5fbc35bd306de75ddae68396750ed40434c3f5a9/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0403S"
+  },
+  {
+    "model": "RA-KV0404B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a6348ee03ff82fab4bb0d2709285d587d7990489/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0404B"
+  },
+  {
+    "model": "SZ45001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5a7533417147509f1be049917d4f90bea67455a0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ45001W_690x460"
+  },
+  {
+    "model": "SZ45002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b70b41fe180f7c80659ed8a1c9f61070a38af836/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ45002W_690x460"
+  },
+  {
+    "model": "SZ45003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8e92427c689784704386542d4b5b23d0533a4130/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ45003W_690x460"
+  },
+  {
+    "model": "SZ45003Z",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/174db7c798a755c9c9f4bbe627180775ccc044de/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ45003Z_690x460"
+  },
+  {
+    "model": "RA-QC1701L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8dc894c6bb7b213a6b11716b3ec9f9d25653adc4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-QC1701L"
+  },
+  {
+    "model": "RA-QC1702S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9bf2e8625a79db78d9f1db09eaaa3f3e693a109d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-QC1702S"
+  },
+  {
+    "model": "RA-KV0401L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/44e42b160b36c4628a52e2460fc44abcb2d79e34/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0401L"
+  },
+  {
+    "model": "RA-KV0402S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/377c3afa1585045862a7d5682d16b379c3229265/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0402S"
+  },
+  {
+    "model": "SZ2F004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/970201e357f4985170a805b2ff4f6af9f98bc81b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ2F004B_690x460"
+  },
+  {
+    "model": "SZ2F005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8264a70e8908f478953523e19789a1b564a43631/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ2F005W_690x460"
+  },
+  {
+    "model": "RF-QA0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/01fab59832c1813afba80292ab242a772e30194d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0001S"
+  },
+  {
+    "model": "RF-QA0002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a13da9f99b3bdca833e0e27049931136bfc314ab/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0002B"
+  },
+  {
+    "model": "RF-QA0003G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b72946ee4675c96ab546867593988aa744de1018/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0003G"
+  },
+  {
+    "model": "RF-QA0004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d10a43d74a522c624a8e576e66ca84e565711e59/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0004B"
+  },
+  {
+    "model": "RF-QA0005L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1ac7ee210f233d548093086a2843de04e888c4c8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0005L"
+  },
+  {
+    "model": "RF-QA0006S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7a7ca518312d2e503a9b41534c9d40ec3eacce76/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0006S"
+  },
+  {
+    "model": "RF-QA0007B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c58442805aaf7813e94afaa5fee9009e12da87df/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0007B"
+  },
+  {
+    "model": "RF-QA0008S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c5b2a1b005dd445116d27a50d698fe1f063e3c2a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0008S"
+  },
+  {
+    "model": "UB9B001T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/32693bf50a7feb31a52f6ce6e8ae7c73f9ef341a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UB9B001T_690x460"
+  },
+  {
+    "model": "UB9B003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e39f701fc6eb621df23aee237316fbd779f99a27/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UB9B003W_690x460"
+  },
+  {
+    "model": "UB9B005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6941d2284b12a3d63f695213503d2d3541c9a2a2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UB9B005W_690x460"
+  },
+  {
+    "model": "UA07001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4032bc0841a757e5293f77211cef6e90c06d9692/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UA07001B_690x460"
+  },
+  {
+    "model": "UA07002T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/739b6690fb017b54bd036af40b31c29540d886b3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UA07002T_690x460"
+  },
+  {
+    "model": "UA07003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7717bc1f77183494d00af0528c048d072bc35480/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UA07003W_690x460"
+  },
+  {
+    "model": "UA07004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c70ea7703a509463fc2b24eab917663d71903bcb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UA07004W_690x460"
+  },
+  {
+    "model": "UA07005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3dd6fe2c1c573ae7422f2be667757fe4063b8b79/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UA07005B_690x460"
+  },
+  {
+    "model": "UA07006B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9bcd67562c2115cf2b3f738835553c9354bd4f32/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UA07006B_690x460"
+  },
+  {
+    "model": "GW01002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e50a97f6fb7fe6eba9303d9eb1ffbc8212ff474c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01002W_690x460"
+  },
+  {
+    "model": "GW01004A",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ffb06e9b3fe9fe9bae56dd1b37d167e8acccb9d1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01004A_690x460"
+  },
+  {
+    "model": "GW01007W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/15911405efa585b9b01ad8d7640054d4d4b72bc2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01007W_690x460"
+  },
+  {
+    "model": "RA-SP0003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7948485f859d430092151dc2c55e162e0cfa0cc2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-SP0003B"
+  },
+  {
+    "model": "RA-SP0004L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d43f8963265f80cdd8604d6adde93b104284e814/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-SP0004L"
+  },
+  {
+    "model": "RF-QD0001S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/98c14e690012471455fce2005f93a53e3dd45a2f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0001S"
+  },
+  {
+    "model": "RF-QD0002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/894206949b4948ec5428f7e6ab8c95f897e6ede8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0002B"
+  },
+  {
+    "model": "RF-QD0003G",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4eb943764072f15cf6df9be9e9db994819f2aefc/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0003G"
+  },
+  {
+    "model": "RF-QD0004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/540f0adff6dc2a0941f76743fe2acfc97b3b61eb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0004B"
+  },
+  {
+    "model": "RF-QD0005L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/983f6ede885d69a560852884466abf6f4d556b2a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0005L"
+  },
+  {
+    "model": "RF-QD0006S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b4ed32db9289af75103d9fe82a4a35e7983f596d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0006S"
+  },
+  {
+    "model": "RF-QD0007B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4b719d9cdbe006e9ebb9100f6b84ad4457aacc11/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0007B"
+  },
+  {
+    "model": "RF-QD0008S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2609d0e7c7c0c8ce65a6dd2f73c16212608ed656/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0008S"
+  },
+  {
+    "model": "GW05001T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7fc89284c4c3fe28d340ef852f7ee331d8a51d80/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW05001T_690x460"
+  },
+  {
+    "model": "GW05002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/89eadbaf8cf8cb36d4549865e8ce0fcd37e30fb7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW05002W_690x460"
+  },
+  {
+    "model": "GW05003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f926dab8a02587afb440420b132701ff32460483/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW05003W_690x460"
+  },
+  {
+    "model": "GW05004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/051786f83aeb4f1f72845147c81232fcf9d7537d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW05004B_690x460"
+  },
+  {
+    "model": "GW05005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c9999e8e5f68ee243b04d4a874eb6f0048a697c5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW05005W_690x460"
+  },
+  {
+    "model": "RA-KV0303B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6cc3b41a40f9ead31ac8c9e971fe063d6ed48fc7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0303B"
+  },
+  {
+    "model": "RA-KV0304Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2557102c4c1e32650bd4e4701e63e335db40220d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0304Y"
+  },
+  {
+    "model": "SZ2F001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c1f5f19a1b3a1d3666abf129a4871dd38721280d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ2F001B_690x460"
+  },
+  {
+    "model": "SZ2F001D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/486386a5b762e504dbcdab8aa25c3581b25eff5b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ2F001D_690x460"
+  },
+  {
+    "model": "SZ2F006W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/86d9d39d5fad51229fed2fc437112daa57f49735/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ2F006W_690x460"
+  },
+  {
+    "model": "SZ3G001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/94215c2bb445dcc4acfc8193e67e73c4590718d7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3G001B_690x460"
+  },
+  {
+    "model": "SZ3G001D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a5309f149981287bc6a572a1ee095e7523c0e0b3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3G001D_690x460"
+  },
+  {
+    "model": "SZ3G002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/32e2e8e201fec8975da58a8a32c6e472b405eaf4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3G002W_690x460"
+  },
+  {
+    "model": "SZ3G004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/01aa004f38dc72f7811e7d555b0622926f54d896/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3G004W_690x460"
+  },
+  {
+    "model": "SZ3W001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5443a0fb16f8612e117af168b3e4e49d96879cc2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3W001W_690x460"
+  },
+  {
+    "model": "SZ3W002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1c9682a092394907df79c5786443fb4c8aebe6e0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3W002W_690x460"
+  },
+  {
+    "model": "SZ3W003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/aad973688d9c46efb7872b37c6525dd5bafd3179/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3W003B_690x460"
+  },
+  {
+    "model": "SZ3W003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1654db4e93988c620974dce78d73b5a24ab0ef7b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3W003W_690x460"
+  },
+  {
+    "model": "SZ3W004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1da8247b8e3ed12930e118d1fcd4c85eb0ac3388/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=SZ3W004W_690x460"
+  },
+  {
+    "model": "",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5c827dd42b23774e6d4933095a4c36b71baed0f4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0009S"
+  },
+  {
+    "model": "",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6c61210b1d7823baf6426db056731e39ef64db05/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0010S"
+  },
+  {
+    "model": "",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5849622fec1c91c5ba4508a53a0d7762461c14fe/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0011L"
+  },
+  {
+    "model": "",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b1c241794e86622b4c347d6d0c3bb11cda223cc5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QA0012S"
+  },
+  {
+    "model": "UNG7001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d6e0b85b6d61bdd11edaa0dcee9577e52570c258/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG7001W_690x460"
+  },
+  {
+    "model": "UNG7002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/732636126c1068ff36dfc0f3f5d10d076ea5e7e3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG7002W_690x460"
+  },
+  {
+    "model": "UNG7003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d7d351ce225f35011d00101bf6492e1b38fee3f4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG7003B_690x460"
+  },
+  {
+    "model": "UNG7003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0a23b5ca38e350354c14ad9c91bc902873939d6d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG7003W_690x460"
+  },
+  {
+    "model": "UG0Q002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ef39ab35415c832f3852afa9a1777fd76ed63b0a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG0Q002W_690x460"
+  },
+  {
+    "model": "UG0Q003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ca2f2a1b48879a14c3a511e71136f32b41283e2c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG0Q003W_690x460"
+  },
+  {
+    "model": "UG0Q004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/93de4f10302238b7ac9d85b51170cca493dd2455/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG0Q004B_690x460"
+  },
+  {
+    "model": "UG0Q004D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fa0af9629bad5976b050290488a59f353ca1f2aa/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG0Q004D_690x460"
+  },
+  {
+    "model": "UG0Q004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3dfeea2c3e27570ad9a16825ebd249cf116d62af/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG0Q004W_690x460"
+  },
+  {
+    "model": "UG0Q005S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/51a340a423b52039ca2b0d5956d32b85c6c07290/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG0Q005S_690x460"
+  },
+  {
+    "model": "UG0Q008B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7c3f9e199ffe21cc38ce3b3d2c546980fd8c57e7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG0Q008B_690x460"
+  },
+  {
+    "model": "UG0Q008D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f4c5b16bbb27c9f23cfd471a38e2f8b554639aca/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG0Q008D_690x460"
+  },
+  {
+    "model": "GW01001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/252beae6e01c5a0b04c538bfbf1e481e862fbfc2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01001W_690x460"
+  },
+  {
+    "model": "GW01003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ea0bb31757a1b98d8123d2231c9b0ece89dcc9f8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01003W_690x460"
+  },
+  {
+    "model": "GW01005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9b2c56cbf07e26bd81e813f28d9a6688eb4afe4f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01005B_690x460"
+  },
+  {
+    "model": "GW01006W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/74f4f54dd00db25b6f0b113d2c999ecc34557131/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=GW01006W_690x460"
+  },
+  {
+    "model": "RA-SP0001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3aa8b7fd852cce7bb3f1340e3475055f4eb6c687/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-SP0001B"
+  },
+  {
+    "model": "RA-SP0002S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/857b6d8887f27cd1d0b4b4b061be66e127f67d58/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-SP0002S"
+  },
+  {
+    "model": "RA-SP0005N",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/dad5a08f718e680ec73cfbe4c39d365c8864e995/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-SP0005N"
+  },
+  {
+    "model": "RA-SP0006E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3dcba03a85e7945496e0086b69fa1653b2ac6fcb/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-SP0006E"
+  },
+  {
+    "model": "RA-SP0007S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4d94500be5f0a306fff07ca73a1d773e0807bd9b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-SP0007S"
+  },
+  {
+    "model": "RF-QD0009S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6acff12ce181e1186487621d5a9016fc9f4bb354/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0009S"
+  },
+  {
+    "model": "RF-QD0010S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/06c925fb65f142b1647a5898a0c75445cd2390b3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0010S"
+  },
+  {
+    "model": "RF-QD0011L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9ed2e69e6ce3a70022494587ae146b4ac11a9a3c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0011L"
+  },
+  {
+    "model": "RF-QD0012S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/395eadd8ccf84ac182f1d53db596f62aa94532b4/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RF-QD0012S"
+  },
+  {
+    "model": "UG1H001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/23be4ebd1c5ae4158da21b1b58f4407b7c23d17d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1H001B_690x460"
+  },
+  {
+    "model": "UG1H001D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e3f01756d11ec8aa15024b8c10835dd16ff1bbb0/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1H001D_690x460"
+  },
+  {
+    "model": "UG1H001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e745c7508b18f794951d69ff8ac23442aad94213/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1H001W_690x460"
+  },
+  {
+    "model": "UG1H002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1de7c29ab38f0676009d73991795813d4fe67374/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1H002W_690x460"
+  },
+  {
+    "model": "UG1H004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d215a828897fd9d4498793d0d5f26a7f5375ed17/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1H004W_690x460"
+  },
+  {
+    "model": "UNG8001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b615430cae15f70eb85bde642d1934efc434c27e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG8001W_690x460"
+  },
+  {
+    "model": "UNG8002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7354eaf22f3d4a5b17740897520acd1cdc7ae0a1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG8002W_690x460"
+  },
+  {
+    "model": "UNG8003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/912da6456977d1905bb6d72166ec0b17efffaaf5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG8003B_690x460"
+  },
+  {
+    "model": "UNG8003D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/913074b6761659c79b171e5618d38493c41077d9/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG8003D_690x460"
+  },
+  {
+    "model": "UNG8003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/25038aa95a6d7a1eaf97a485c0b61950db6f93bf/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG8003W_690x460"
+  },
+  {
+    "model": "RA-KV0301L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/bc5e334e1d68ac8e73eaa11bc56bb00179384337/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0301L"
+  },
+  {
+    "model": "RA-KV0302S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/eb300dcc64761086d909c1986ed6cf74ca7925d7/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0302S"
+  },
+  {
+    "model": "UNE5001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5ae56fcba9b386354f92e14a8b004df132eb312e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNE5001W_690x460"
+  },
+  {
+    "model": "UNE5002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/013cea63d1fc1b92274addbf026642ce3d09d1fd/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNE5002W_690x460"
+  },
+  {
+    "model": "UNE5003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/98c4cb308a71eb49d3a4ce45fc8ef278a405197b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNE5003B_690x460"
+  },
+  {
+    "model": "UNE5004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c8a0d30c31571ccf842a0253cb3b6ed36a6d4fce/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNE5004W_690x460"
+  },
+  {
+    "model": "UNE5005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3a779a9eb9439d53ed1bfe45f22163d646dc442f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNE5005B_690x460"
+  },
+  {
+    "model": "UNE5005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/289ebe40a08bbfac5f84e9d348fabdc0a3e30d16/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNE5005W_690x460"
+  },
+  {
+    "model": "QC0U001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/670e5d2f4f3e8f09d9d9d0556487fb4fe7c52681/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=QC0U001B"
+  },
+  {
+    "model": "QC0U002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3ad7e17771bfc307b9acece69d4b3ea55201a2bc/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=QC0U002W"
+  },
+  {
+    "model": "QC0U003K",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8ed995c58337622628de59218f581e1f57dd1971/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=QC0U003K"
+  },
+  {
+    "model": "QC0U004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fd9dbaa6f9c27f796a06442526fd491a58f83c9c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=QC0U004B_690x460"
+  },
+  {
+    "model": "QC0U004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b7aa4cf1ebcc93d5bbe9bef594d76e5ab836b19b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=QC0U004W_690x460"
+  },
+  {
+    "model": "QC0U005F",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/9590efb1faef02675340554438dbf0b67b0e0fa1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=QC0U005F_690x460"
+  },
+  {
+    "model": "UNF6004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/63bebf7aa4412a7b42f852471087bf01f52cf1d6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNF6004B_690x460"
+  },
+  {
+    "model": "UNF6005T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/90427977b74d657f8deed815c26cbcac1bfd32cf/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNF6005T_690x460"
+  },
+  {
+    "model": "UNF6006W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ce3cb9362b98a62754da5f8fbce5576dcdb25fcd/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNF6006W_690x460"
+  },
+  {
+    "model": "KU00004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e147eddec56274972eacaf867c916df9dda65786/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KU00004B_690x460"
+  },
+  {
+    "model": "KU00005T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3c5950bba60d021fe904340d4589239c4e48f656/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KU00005T_690x460"
+  },
+  {
+    "model": "KU00006W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/cf47cb9907fc91d9b8a7b7477ac315eff7c9b68b/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KU00006W_690x460"
+  },
+  {
+    "model": "UNG2003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0bf3bdbf27cd79223c11fa27422e174a21da5a0e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG2003B_690x460"
+  },
+  {
+    "model": "UNG2004F",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/285babc20e1abc18304a9606ec93d69101065656/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG2004F_690x460"
+  },
+  {
+    "model": "UNG2005D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/93b79b3da7c643242d4b9901838f1ebddec32e09/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG2005D_690x460"
+  },
+  {
+    "model": "RA-KV0503Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8b8e101e398a65a55ac37008943ce14d77b6e982/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0503Y"
+  },
+  {
+    "model": "UG1X002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b52040c47db9ca618a7a17a1747490b89115506c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1X002B_690x460"
+  },
+  {
+    "model": "UG1X003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/6751b8061c6c607d629897e3a82168ec1c0a40d2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1X003W_690x460"
+  },
+  {
+    "model": "KV01003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7ec8388c4ec7d39eeaa00b70c9e4574da6076d97/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV01003B_690x460"
+  },
+  {
+    "model": "KV01004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3663bc4570480f81dcf9db2f96c86e35d8bdc934/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV01004B_690x460"
+  },
+  {
+    "model": "KV01005Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/82ec1793324a4fd1f9eabc823f20eff119329ab5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV01005Y_690x460"
+  },
+  {
+    "model": "TW04004T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/026bdbcbbc77c6313efbcaa8fa46974b1dd31865/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TW04004T_690x460"
+  },
+  {
+    "model": "TW04005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/cdf6b16e56243b240c0293479c372708a3bb1e58/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TW04005B_690x460"
+  },
+  {
+    "model": "TW04006D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/82be017ac89587ac8d923cc69adbadb919603c29/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TW04006D_690x460"
+  },
+  {
+    "model": "TW04008W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d96d4eb5f33dc61c26a806ab30f1c898c24e13a3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TW04008W_690x460"
+  },
+  {
+    "model": "TT0Y004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/0056298da350784ad95bed3e5b00e738f5466d3f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TT0Y004B_690x460"
+  },
+  {
+    "model": "TT0Y006B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ff0b95f0ccf29d45797efb7243f5750b3bec1031/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TT0Y006B_690x460"
+  },
+  {
+    "model": "UY07001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/916629813993fc5d0a40dee02eda4796e44c6cea/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UY07001B_690x460"
+  },
+  {
+    "model": "UY07001D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d80a7599e69b0ceedff93d02f50b5b87d26592cf/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UY07001D_690x460"
+  },
+  {
+    "model": "UY07002T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2601d64daa0d5a14bb61b2e19c22bc4cf527f185/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UY07002T_690x460"
+  },
+  {
+    "model": "UNF6001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2d4165bfe7ca2e475a0926d384069e6268a894ce/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNF6001B_690x460"
+  },
+  {
+    "model": "UNF6002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c7d74d35ee1bede9b0d08f8f736ab486c29e3dd6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNF6002B_690x460"
+  },
+  {
+    "model": "KU00001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/715cccb412c2fd6b7080e4511f6f02003e5a4ed5/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KU00001W_690x460"
+  },
+  {
+    "model": "KU00002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8eb6d819ede10c60e2e27f10dd0194279c2c6385/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KU00002B_690x460"
+  },
+  {
+    "model": "KU00002D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/35d7e561dd996d84258d7cae9146a65457f846e9/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KU00002D_690x460"
+  },
+  {
+    "model": "KU00003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e7eb4bc301511a29a0fbebb885e3134999d4146e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KU00003W_690x460"
+  },
+  {
+    "model": "UNG2001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a780f614a9f8e8dc8c67749acccb0b1be709d1a8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG2001B_690x460"
+  },
+  {
+    "model": "UNG2001D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e0b5a4ffdc07fd647779ef0bce71dfa6ce575af1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG2001D_690x460"
+  },
+  {
+    "model": "UNG2001F",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/94fc6f07496d85f350d97b8de97f91d90af71662/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG2001F_690x460"
+  },
+  {
+    "model": "UNG2002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d73f02faacbe6b2a4b065f6730dfd0eac2fb5c28/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG2002W_690x460"
+  },
+  {
+    "model": "RA-TX0202B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ec4fc5f7bf6dd85282de1a770d6be882b30fa009/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-TX0202B"
+  },
+  {
+    "model": "RA-TX0203S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/f9c64c2872dd012d3fdaa72934ac721b66714774/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-TX0203S"
+  },
+  {
+    "model": "RA-KV0001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ebc6f44620796ca0bfcec40e096f7e9636870965/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0001B_690x460"
+  },
+  {
+    "model": "RA-KV0002L",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/60843c62c6bc44569a0c34ab381eff82fd853ae6/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0002L_690x460"
+  },
+  {
+    "model": "RA-KV0003S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d8481f7ed41913d97aeb80a1dce72f27fa120c1c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0003S_690x460"
+  },
+  {
+    "model": "RA-KV0004R",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/ef7fd970c19701f4e512f361d48165c30142787a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0004R_690x460"
+  },
+  {
+    "model": "RA-KV0005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4ad16f43fdefdcb101080c74ef780d6f24dbf213/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0005B_690x460"
+  },
+  {
+    "model": "RA-KV0006Y",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b8a2885d947f4288546e4f23db577760e2997a53/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0006Y_690x460"
+  },
+  {
+    "model": "UG1X001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e7357e7d43903feb3e4abe9512770f1cfcb1a4ea/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1X001B_690x460"
+  },
+  {
+    "model": "UG1X004B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/7a66eca86e5064a49461567f6ba7b8ecef20c232/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1X004B_690x460"
+  },
+  {
+    "model": "UG1X004D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c10313de40fee8c2c7164b5057ea18513a3b717a/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1X004D_690x460"
+  },
+  {
+    "model": "UG1X005W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/10a47cc35bae234eb9de7d84fe5aa7419da91a2c/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1X005W_690x460"
+  },
+  {
+    "model": "KV00001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e8bc3a45f02a2a719d9698586a76695db479b0ad/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV00001B_690x460"
+  },
+  {
+    "model": "KV00002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/2a0f999619fe3d91e51ee047ec785fb0dc4e5625/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV00002W_690x460"
+  },
+  {
+    "model": "KV00003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fd363dbb6b5fe02dd236473a74c9cb4c206b60f9/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV00003B_690x460"
+  },
+  {
+    "model": "KV00004W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/b637432153726e82ebe87154538b9c85f609650d/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV00004W_690x460"
+  },
+  {
+    "model": "UNG3001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a89d889eddd579a4d98b1120eb8157ddd78ec1bf/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG3001B_690x460"
+  },
+  {
+    "model": "UNG3001D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/31da52232243e6ba89eb74f01458e081b827daa9/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG3001D_690x460"
+  },
+  {
+    "model": "UNG3001T",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/d0090757ab57f233787fef4ec4da08204ff314c2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG3001T_690x460"
+  },
+  {
+    "model": "UNG3002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/c28492a2e2e028a1b218d9fef8f284870f8c59f1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UNG3002W_690x460"
+  },
+  {
+    "model": "KV01001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/1aa51a4da7b477d478dfcabcadf6c460eee93149/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV01001B_690x460"
+  },
+  {
+    "model": "KV01002D",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3131692c75f778ba65a353cdf4d0ac1e59604ba2/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV01002D_690x460"
+  },
+  {
+    "model": "TW04001W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/aa2f104bc1b98529164896c52af694885efa8b53/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TW04001W_690x460"
+  },
+  {
+    "model": "TW04002S",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/82c8cab347a4b8befa291a265699e03369580c69/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TW04002S_690x460"
+  },
+  {
+    "model": "TW04003B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/80984a296d79ab464ae89a9a300b1dab2877d13e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TW04003B_690x460"
+  },
+  {
+    "model": "TD0G001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5e59ebd885940257113e8cbacb723969f1ea907f/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TD0G001B_690x460"
+  },
+  {
+    "model": "TD0G002W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/857126faa6534f64895535434e963552239f0174/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TD0G002W_690x460"
+  },
+  {
+    "model": "TT0Y001B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/e667522bbdfcfa86bbd6c4343851c18e7ea1103e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TT0Y001B_690x460"
+  },
+  {
+    "model": "TT0Y002B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/4db5e92010ed27fe68e7633dae94edf947a42ce3/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TT0Y002B_690x460"
+  },
+  {
+    "model": "TT0Y003W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/a84eb1699f17f99490ba39592f54865517b9dc08/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=TT0Y003W_690x460"
+  },
+  {
+    "model": "RA-KV0501E",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/76c3200ed42cecfcacc555f5314a5b6a8e68ee61/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0501E"
+  },
+  {
+    "model": "RA-KV0502B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/12f9e05acbe25e2e8e4c347e809b2045fd8e242e/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=RA-KV0502B"
+  },
+  {
+    "model": "UG1X008B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/3a110ef5e52b5b1fe335a448706ec9e12ffb43b8/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1X008B_690x460"
+  },
+  {
+    "model": "UG1X00BB",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/541dd61868c550cf70b4e428226e7fd0b1a3a1fa/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=UG1X00BB_690x460"
+  },
+  {
+    "model": "KV00005B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/18cf4a99a39e369f18a9c678651a246dbcbb23b1/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV00005B_690x460"
+  },
+  {
+    "model": "KV00006B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/fe72d1ecbcb7c02a5983d5f0732bf2f5a1d3e898/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV00006B_690x460"
+  },
+  {
+    "model": "KV00007B",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/8400ca528b1252a24ab8dd782eb5f67bc7b29345/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV00007B_690x460"
+  },
+  {
+    "model": "KV00008W",
+    "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/5eda6a22dfec6e5bdaf89371f4ee29c2ba6e6c92/515Wx515H?use=productpictures&hybrisId=B2C&assetDescr=KV00008W_690x460"
+  }
+]
