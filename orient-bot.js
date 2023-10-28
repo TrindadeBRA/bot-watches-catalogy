@@ -8,14 +8,15 @@
             headless: "new"
         });
         const page = await browser.newPage();
-        let currentPage = 0;
+        // let currentPage = 0;
+        let currentPage = 20;
         let hasNextPage = true;
         const products = [];
 
         while (hasNextPage) {
             await page.goto(`https://orient-watch.com/Collections/ORIENT/c/o2?q=%3Aname-asc&page=${currentPage}&text=`);
 
-            console.log("Iniciando página ", currentPage)
+            console.log("Iniciando página ", currentPage+1)
 
             const productItems = await page.$$('.product-item');
 
@@ -50,7 +51,7 @@
                     await pageInternal.close();
                     
                     console.timeEnd('Tempo de execução do produto');
-                    
+
                     console.log("----");
                     console.log("----");
                     console.log("----");
