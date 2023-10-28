@@ -2,14 +2,14 @@
     const fs = require('fs');
 
     (async () => {
-        console.time('Tempo de execução'); // Inicia o temporizador
+        console.time('Tempo de execução');// Inicia o temporizador geral
 
         const browser = await puppeteer.launch({
             headless: "new"
         });
         const page = await browser.newPage();
-        // let currentPage = 0;
-        let currentPage = 20;
+        let currentPage = 0;
+        // let currentPage = 20;
         let hasNextPage = true;
         const products = [];
 
@@ -25,8 +25,7 @@
             } else {
                 for (let i = 0; i < productItems.length; i++) {
 
-                    console.time('Tempo de execução do produto'); // Inicia o temporizador
-
+                    console.time('Tempo de execução do produto');// Inicia o temporizador do produto
 
                     console.log(`Iniciando produto ${i+1}/30`)
 
@@ -47,10 +46,32 @@
                     
                     const manualUrl = await pageInternal.$eval('.product-attributes a', a => a ? a.href : null);
                     console.log("Manual: ", manualUrl);
+
+                    const descriptionText = await pageInternal.$eval('.description > p', description => description ? description.textContent.trim() : null);
+                    console.log("Description: ", descriptionText);
+
+                    const attributes = await pageInternal.$eval('.product-attributes ul', ul => {
+                        const attributeElements = Array.from(ul.querySelectorAll('li'));
+                        if (attributeElements.length === 0) {
+                            return null; // Se não encontrar elementos, atribui null
+                        }
+                        const attributesArray = attributeElements.map(li => li.textContent.trim());
+                        return attributesArray;
+                    });
+                    console.log("Attributes: ", attributes);
+
+                    
+                    const imagesGalley = await pageInternal.$$eval('.slider-nav .slick-slide img', imgs => {
+                        if (imgs.length === 0) {
+                            return null; // Se não encontrar elementos, atribui null
+                        }
+                        return imgs.map(img => img.getAttribute('src'));
+                    });
+                    console.log("Images: ", imagesGalley);
                     
                     await pageInternal.close();
                     
-                    console.timeEnd('Tempo de execução do produto');
+                    console.timeEnd('Tempo de execução do produto');// Finaliza o temporizador do produto
 
                     console.log("----");
                     console.log("----");
@@ -60,7 +81,10 @@
                         model: extractModelFromTitle(title),
                         imageUrl: imageUrl,
                         detailsUrl: internalUrl,
+                        descriptionText: descriptionText,
                         manualUrl: manualUrl,
+                        attributes: attributes,
+                        imagesGalley: imagesGalley,
                     });
 
 
@@ -71,7 +95,7 @@
         }
 
         await browser.close();
-        console.timeEnd('Tempo de execução');
+        console.timeEnd('Tempo de execução');// Finaliza o temporizador geral
 
         fs.writeFileSync('results/orient-output.json', JSON.stringify(products, null, 2));
         console.log('Informações salvas em output.json');
