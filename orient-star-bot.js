@@ -24,6 +24,8 @@
             } else {
                 for (let i = 0; i < productItems.length; i++) {
 
+                    console.time('Tempo de execução do produto'); // Inicia o temporizador
+
                     console.log(`Iniciando produto ${i+1}/30`)
 
                     const productItem = productItems[i];
@@ -45,6 +47,8 @@
                     console.log("Manual: ", manualUrl);
                     
                     await pageInternal.close();
+
+                    console.timeEnd('Tempo de execução do produto');
                     
                     console.log("----");
                     console.log("----");
