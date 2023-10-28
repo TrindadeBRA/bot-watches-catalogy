@@ -8,7 +8,7 @@
             headless: "new"
         });
         const page = await browser.newPage();
-        let currentPage = 1;
+        let currentPage = 0;
         let hasNextPage = true;
         const products = [];
 
@@ -64,9 +64,6 @@
 
         await browser.close();
         console.timeEnd('Tempo de execução');
-
-        const tempoDeExecucao = console.timeEnd('Tempo de execução');
-        products.push({ tempoDeExecucao });
 
         fs.writeFileSync('results/orient-star-output.json', JSON.stringify(products, null, 2));
         console.log('Informações salvas em output.json');
