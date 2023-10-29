@@ -1,111 +1,130 @@
-    const puppeteer = require('puppeteer');
-    const fs = require('fs');
+const puppeteer = require('puppeteer');
+const fs = require('fs');
 
-    (async () => {
-        console.time('Tempo de execução');// Inicia o temporizador geral
+(async () => {
+    console.time('Tempo de execução');// Inicia o temporizador geral
 
-        const browser = await puppeteer.launch({
-            headless: "new"
-        });
-        const page = await browser.newPage();
-        let currentPage = 0;
-        // let currentPage = 20;
-        let hasNextPage = true;
-        const products = [];
+    const browser = await puppeteer.launch({
+        headless: "new"
+    });
+    const page = await browser.newPage();
+    let currentPage = 0;
+    let hasNextPage = true;
+    const products = [];
 
-        while (hasNextPage) {
-            await page.goto(`https://orient-watch.com/Collections/ORIENT/c/o2?q=%3Aname-asc&page=${currentPage}&text=`);
+    while (hasNextPage) {
+        await page.goto(`https://orient-watch.com/Collections/ORIENT/c/o2?q=%3Aname-asc&page=${currentPage}&text=`);
 
-            console.log("Iniciando página ", currentPage+1)
+        console.log("Iniciando página ", currentPage + 1)
 
-            const productItems = await page.$$('.product-item');
+        const productItems = await page.$$('.product-item');
 
-            if (productItems.length === 0) {
-                hasNextPage = false;
-            } else {
-                for (let i = 0; i < productItems.length; i++) {
+        if (productItems.length === 0) {
+            hasNextPage = false;
+        } else {
+            for (let i = 0; i < productItems.length; i++) {
 
-                    console.time('Tempo de execução do produto');// Inicia o temporizador do produto
+                console.time('Tempo de execução do produto');
 
-                    console.log(`Iniciando produto ${i+1}/30`)
+                console.log(`Iniciando produto ${i + 1}/30`)
 
-                    const productItem = productItems[i];
+                const productItem = productItems[i];
 
-                    const imageUrl = await productItem.$eval('.thumb img', img => img.src);
-                    console.log('Imagem: ', imageUrl);
+                const imageUrl = await productItem.$eval('.thumb img', img => img.src);
+                console.log('Imagem: ', imageUrl);
 
-                    const title = await productItem.$eval('.name', name => name.textContent);
-                    console.log('Title: ', extractModelFromTitle(title));
-                    
-                    const internalUrl = await productItem.$eval('.name', name => name.href);
-                    const pageInternal = await browser.newPage();
-                    
-                    console.log('InternalUrl: ', internalUrl);
-                    await pageInternal.goto(internalUrl);
-                    await pageInternal.waitForSelector('.product-info');
-                    
-                    const manualUrl = await pageInternal.$eval('.product-attributes a', a => a ? a.href : null);
-                    console.log("Manual: ", manualUrl);
+                const title = await productItem.$eval('.name', name => name.textContent);
+                console.log('Title: ', extractModelFromTitle(title));
 
-                    const descriptionText = await pageInternal.$eval('.description > p', description => description ? description.textContent.trim() : null);
-                    console.log("Description: ", descriptionText);
+                const internalUrl = await productItem.$eval('.name', name => name.href);
+                const pageInternal = await browser.newPage();
 
-                    const attributes = await pageInternal.$eval('.product-attributes ul', ul => {
+                console.log('InternalUrl: ', internalUrl);
+                await pageInternal.goto(internalUrl);
+                await pageInternal.waitForSelector('.product-info');
+
+                let manualUrl;
+                try {
+                    manualUrl = await pageInternal.$eval('.product-attributes a', a => a ? a.href : null);
+                } catch (error) {
+                    manualUrl = null;
+                }
+                console.log("Manual: ", manualUrl);
+
+                let attributes;
+                try {
+                    attributes = await pageInternal.$eval('.product-attributes ul', ul => {
                         const attributeElements = Array.from(ul.querySelectorAll('li'));
                         if (attributeElements.length === 0) {
-                            return null; // Se não encontrar elementos, atribui null
+                            return null;
                         }
                         const attributesArray = attributeElements.map(li => li.textContent.trim());
                         return attributesArray;
                     });
-                    console.log("Attributes: ", attributes);
+                } catch (error) {
+                    attributes = null;
+                }
+                console.log("Attributes: ", attributes);
 
-                    
-                    const imagesGalley = await pageInternal.$$eval('.slider-nav .slick-slide img', imgs => {
+                let imagesGallery;
+                try {
+                    imagesGallery = await pageInternal.$$eval('.slider-nav .slick-slide img', imgs => {
                         if (imgs.length === 0) {
-                            return null; // Se não encontrar elementos, atribui null
+                            return null;
                         }
                         return imgs.map(img => img.getAttribute('src'));
                     });
-                    console.log("Images: ", imagesGalley);
-                    
-                    await pageInternal.close();
-                    
-                    console.timeEnd('Tempo de execução do produto');// Finaliza o temporizador do produto
-
-                    console.log("----");
-                    console.log("----");
-                    console.log("----");
-
-                    products.push({
-                        model: extractModelFromTitle(title),
-                        imageUrl: imageUrl,
-                        detailsUrl: internalUrl,
-                        descriptionText: descriptionText,
-                        manualUrl: manualUrl,
-                        attributes: attributes,
-                        imagesGalley: imagesGalley,
-                    });
-
-
+                } catch (error) {
+                    imagesGallery = null; 
                 }
+                console.log("Images: ", imagesGallery);
 
-                currentPage++;
+                let descriptionText;
+                try {
+                    descriptionText = await pageInternal.$eval('.description > p', description => description ? description.textContent.trim() : null);
+                } catch (error) {
+                    descriptionText = null; // Define descriptionText como null em caso de erro
+                }
+                console.log("Description: ", descriptionText);
+
+                await pageInternal.close();
+
+                console.timeEnd('Tempo de execução do produto');// Finaliza o temporizador do produto
+
+                console.log("----");
+                console.log("----");
+                console.log("----");
+
+                products.push({
+                    watch_model: extractModelFromTitle(title),
+                    watch_brand: "Orient",
+                    watch_title: title,
+                    watch_cover: imageUrl,
+                    watch_images: imagesGallery,
+                    watch_details_url: internalUrl,
+                    watch_description: descriptionText,
+                    watch_attributes: attributes,
+                });
+
+
             }
+
+            currentPage++;
         }
-
-        await browser.close();
-        console.timeEnd('Tempo de execução');// Finaliza o temporizador geral
-
-        fs.writeFileSync('results/orient-output.json', JSON.stringify(products, null, 2));
-        console.log('Informações salvas em output.json');
-    })();
-
-    function extractModelFromTitle(title) {
-        const regex = /\((.*?)\)/;
-        const modelMatch = title.match(regex);
-        if (modelMatch && modelMatch.length > 1) {
-            return modelMatch[1];
-        }
-        return "";
     }
+
+    await browser.close();
+    console.timeEnd('Tempo de execução');
+
+    fs.writeFileSync('results/orient-output.json', JSON.stringify(products, null, 2));
+    console.log('Informações salvas em results/orient-output.json');
+})();
+
+function extractModelFromTitle(title) {
+    const regex = /\((.*?)\)/;
+    const modelMatch = title.match(regex);
+    if (modelMatch && modelMatch.length > 1) {
+        return modelMatch[1];
+    }
+    return "";
+}
