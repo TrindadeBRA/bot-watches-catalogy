@@ -21,7 +21,7 @@ const fs = require('fs');
 
         try {
 
-            if (count % 40 === 0) {
+            if (count % 30 === 0) {
                 // break
                 await page.evaluate('window.scrollTo(0, document.body.scrollHeight)');
                 let newHeight = await page.evaluate('document.body.scrollHeight');
