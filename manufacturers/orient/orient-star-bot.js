@@ -81,9 +81,14 @@ const fs = require('fs');
 
                 let descriptionText;
                 try {
-                    descriptionText = await pageInternal.$eval('.description > p', description => description ? description.textContent.trim() : null);
+                    const descriptionElements = await pageInternal.$$eval('.description > p', pElements => {
+                        return pElements.map(pElement => pElement.textContent.trim());
+                    });
+
+                    descriptionText = descriptionElements.join(' ');
+                    descriptionText = descriptionText.replace(/\s+/g, ' ').trim();
                 } catch (error) {
-                    descriptionText = null; // Define descriptionText como null em caso de erro
+                    descriptionText = null;
                 }
                 console.log("Description: ", descriptionText);
 
