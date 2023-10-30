@@ -102,6 +102,7 @@ const fs = require('fs');
                     watch_cover: imageUrl,
                     watch_images: imagesGallery,
                     watch_details_url: internalUrl,
+                    watch_manual_url: manualUrl,
                     watch_description: descriptionText,
                     watch_attributes: attributes,
                 });

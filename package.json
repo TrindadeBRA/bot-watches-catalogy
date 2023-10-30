@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "orient": "node orient-bot.js",
-    "orient-star": "node orient-star-bot.js"
+    "orient": "node manufacturers/orient/orient-bot.js",
+    "orient-star": "node manufacturers/orient/orient-star-bot.js",
+    "casio": "node manufacturers/casio/casio-bot.js"
   },
   "keywords": [],
   "author": "",
