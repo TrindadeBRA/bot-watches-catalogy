@@ -122,7 +122,16 @@ const fs = require('fs');
     await browser.close();
     console.timeEnd('Tempo de execução');
 
-    fs.writeFileSync('results/orient-star-output.json', JSON.stringify(products, null, 2));
+    const currentDateTime = new Date();
+    const year = currentDateTime.getFullYear();
+    const month = String(currentDateTime.getMonth() + 1).padStart(2, '0');
+    const day = String(currentDateTime.getDate()).padStart(2, '0');
+    const hours = String(currentDateTime.getHours()).padStart(2, '0') + 'h';
+    const minutes = String(currentDateTime.getMinutes()).padStart(2, '0') + 'm';
+    const seconds = String(currentDateTime.getSeconds()).padStart(2, '0') + 's';
+    const fileName = `results/orient/orient-star-output-${year}-${month}-${day}-${hours}-${minutes}-${seconds}.json`;
+
+    fs.writeFileSync(fileName, JSON.stringify(products, null, 2)); console.log('Informações salvas em results/orient-output.json');
     console.log('Informações salvas em results/orient-star-output.json');
 })();
 
